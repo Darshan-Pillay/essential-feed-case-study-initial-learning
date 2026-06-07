@@ -3,4 +3,68 @@
    uuid = "F0534ABC-A67A-4684-A424-71078694A882"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DE16190-B09C-485E-9C23-CF17ED0CC86D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialFeedTests/Feed API/URLSessionHTTPClientTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "get(from:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DE16190-B09C-485E-9C23-CF17ED0CC86D - e3e7d2fa424950bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in EssentialFeedTests.URLSessionHTTPClient.get(from: Foundation.URL, completion: (EssentialFeed.HTTPClientResult) -&gt; ()) -&gt; ()"
+                  moduleName = "EssentialFeedTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darshanpillay/Documents/Personal/essential-feed-case-study-initial-learning/EssentialFeed/EssentialFeedTests/Feed%20API/URLSessionHTTPClientTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "9DE16190-B09C-485E-9C23-CF17ED0CC86D - e3e7d2fa424950bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in EssentialFeedTests.URLSessionHTTPClient.get(from: Foundation.URL, completion: (EssentialFeed.HTTPClientResult) -&gt; ()) -&gt; ()"
+                  moduleName = "EssentialFeedTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darshanpillay/Documents/Personal/essential-feed-case-study-initial-learning/EssentialFeed/EssentialFeedTests/Feed%20API/URLSessionHTTPClientTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B5EBDF0-3C6F-4449-B546-3895B1AC2E9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialFeedTests/Feed API/URLSessionHTTPClientTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "get(from:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
