@@ -1,6 +1,8 @@
 import EssentialFeed
 import Foundation
 
+// MARK: - Imports
+
 import XCTest
 
 final class EssentialFeedAPIEndToEndTests: XCTestCase {
